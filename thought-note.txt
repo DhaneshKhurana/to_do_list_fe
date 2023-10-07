@@ -1,0 +1,29 @@
+Title: To-Do-List Front End Assignment
+
+Summary:
+Hi,
+My name is Dhanesh Khurana. I have completed the frot-end development for to-do list. And It was very fun and 
+learning journey as I got lots of error and I was able to suceessfully handle all.
+Integerating front-end with backend was most chaleenging where I got most of the error. But It was a good learning
+journey.
+Adding delete functionlaity posed one main challenge as the ids had to be unique. So rather than 
+generating ids using length of task stored and these are being generated using timestamp and mac address
+using UniqId package.
+
+/** Updates **/
+-> Delete Icon has been added to task UI.
+-> Now ids are genrated randomly and uniquely by using UniqId package.
+-> Now task can be added by pressing enter key as well.
+
+Technical Summary:
+This assignment has mainly utilised 2 technlogoies. viz:
+    i) React.js:
+        To create the front-end in a modular way using components.
+    ii) React-Bootstrap and Bootstrap:
+        To style the front end.
+    iii) UniqId:
+        To generate unique ids.
+
+P.S. : I have also attahed the screenshots of the app in screenshot folder.
+
+Thankyou.
